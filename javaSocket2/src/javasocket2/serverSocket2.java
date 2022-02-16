@@ -9,7 +9,7 @@ package javasocket2;
  *
  * @author leone.lorenzo
  */
-public class JavaSocket2 {
+public class serverSocket2 {
 
     /**
      * @param args the command line arguments
